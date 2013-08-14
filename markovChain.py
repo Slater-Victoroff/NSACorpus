@@ -45,4 +45,4 @@ def generate(input_file, output_length, ply):
     return " ".join(output)
 
 #train("allData.txt", "markov.p", 2)
-print generate("markov.p", 200, 3)
+#print generate("markov.p", 200, 3)
